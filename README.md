@@ -2,7 +2,7 @@
 
 Computer Architecture (CS F342) Assignment. Implementation is done for the following instructions:\
     
-```assembly
+```
     LW R1, R11, #12
     RSR R3, R8, R2
     LSR R2, R1, R3
