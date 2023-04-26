@@ -1,6 +1,8 @@
 # MIPS-Processor-CompArch-Assignment
 
-Computer Architecture (CS F342) Assignment. Implementation is done for the following instructions:\
+Computer Architecture (CS F342) Assignment. 
+
+A 5-stage pipelined processor has been implemented in Verilog and tested in Vivado. Implementation has been done for the following instructions:
     
 ```
     LW R1, R11, #12
